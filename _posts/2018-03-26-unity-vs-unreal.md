@@ -46,7 +46,7 @@ So what I want you to do is set a timer for 5 minutes, make a list of the pros a
 
 Seriously, just flip a coin. Do it.
 
-Now go make games, don’t even think about switching game engines until you’ve put out a couple of finished projects. That’s it. You don’t need to read this comment any further. Close this tab.
+Now go make games, don’t even think about switching game engines until you’ve put out a couple of finished projects. That’s it. You don’t need to read this any further. Close this tab.
 
 ---
 
