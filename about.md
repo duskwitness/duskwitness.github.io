@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi! I'm Karan Bhullar. A 20 year old game development and web development enthusiast.
+Hi! I'm Karan Bhullar. A game development and web development enthusiast.
 
 This is my blog for all stuff related to game development. I intend to post once every week!
 
