@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! I'm Karan Bhullar. A 20 year old game development and web development enthusiast.
 
-### More Information
+This is my blog for all stuff related to game development. I intend to post weekly!
 
-A place to include any other types of information that you'd like to include about yourself.
+### Social Media
 
-### Contact me
+Twitter: [@duskwitness](twitter.com/duskwitness)  
+Instagram: [@duskwitness](instagram.com/duskwitness)  
+Reddit: [@duskwitness](reddit.com/duskwitness) 
 
-[email@domain.com](mailto:email@domain.com)
+### Contact me (Please ^^)
+
+I'd love to hear your feedback! Or perhaps you could suggest a topic for the next week's blog post?
+
+[derkrysae@gmail.com](mailto:derkrysae@gmail.com)
