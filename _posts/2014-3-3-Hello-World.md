@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unity vs Unreal: Which game development engine should I choose?'
-published: false
+published: true
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
@@ -83,4 +83,3 @@ Still here? What.. the coin landed on the edge?
 Okay, I'll make the decision for you.   ^(^Unity)
 
 Now go make.
-
