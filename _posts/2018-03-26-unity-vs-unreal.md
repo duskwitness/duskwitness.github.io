@@ -72,7 +72,7 @@ Now go make games, don’t even think about switching game engines until you’v
 
 Still here? What.. the coin landed on the edge?
 
-Okay, I’ll make the decision for you. \\(Unity\\)
+Okay, I’ll make the decision for you. _Unity_
 
 $$a^2 + b^2 = c^2$$
 
