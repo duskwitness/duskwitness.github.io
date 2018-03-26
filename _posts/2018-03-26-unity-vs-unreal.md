@@ -74,4 +74,6 @@ Still here? What.. the coin landed on the edge?
 
 Okay, I’ll make the decision for you. \\(Unity\\)
 
+$$a^2 + b^2 = c^2$$
+
 Now go make.
