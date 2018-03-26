@@ -5,9 +5,7 @@ By the end of reading this post, if you follow all the instructions, you will ha
 
 ---
 
-> Unity vs Unreal - which game engine should I choose as a beginner?
-
-Just by reading your question, I know you have spent a lot of time into researching and pondering. It's time to stop.
+Just by the fact that you’re here reading this, I know you have spent a lot of time into researching and pondering. It’s time to stop.
 
 ---
 
