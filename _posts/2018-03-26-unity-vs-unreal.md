@@ -1,8 +1,6 @@
 ---
 published: true
 ---
-# Unity vs Unreal: Which game development engine should I choose?
-
 ##### By the end of reading this post, if you follow all the instructions, you will have made the final decision.
 &nbsp;
 Just by the fact that you're here reading this, I know you have spent a lot of time into researching and pondering. It's time to stop.
