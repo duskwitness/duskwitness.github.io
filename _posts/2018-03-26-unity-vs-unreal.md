@@ -1,5 +1,8 @@
 ---
 published: true
+layout: post
+title: Unity vs Unreal - Which game development engine should I use as a beginner?
+---
 ---
 By the end of reading this post, if you follow all the instructions, you will have made the final decision.
 
