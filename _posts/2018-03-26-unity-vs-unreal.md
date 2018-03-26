@@ -17,9 +17,11 @@ If you picked JavaScript, after putting time into learning and actually making s
 If you picked Blender.... (It's the same story as before, replace JavaScript with Blender and Python with Maya)
 
 
-> It’s about learning programming, learning programming languages is easy.  
-> It’s about learning 3d modeling, learning 3d modeling applications is easy.  
-> **Learning an engine is easy. Learning how to make games is hard.**  
+> It’s about learning programming, learning programming languages is easy.
+
+> It’s about learning 3d modeling, learning 3d modeling applications is easy.
+
+> **Learning an engine is easy. Learning how to make games is hard.**
 
 
 
