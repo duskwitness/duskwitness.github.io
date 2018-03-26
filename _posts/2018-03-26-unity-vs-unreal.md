@@ -7,8 +7,6 @@ By the end of reading this post, if you follow all the instructions, you will ha
 
 Just by the fact that you’re here reading this, I know you have spent a lot of time into researching and pondering. It’s time to stop.
 
----
-
 ## Switching between game engines is no big deal
 
 The real work, 99.99% of the work, is in actually going through the process of making games which will make you acquire the experience and knowledge of actually making games. That's what actually matters.
