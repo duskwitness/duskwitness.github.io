@@ -13,6 +13,7 @@ This is my blog for all stuff related to game development. I intend to post week
 Twitter: [@duskwitness](twitter.com/duskwitness)  
 Instagram: [@duskwitness](instagram.com/duskwitness)  
 Reddit: [@duskwitness](reddit.com/duskwitness) 
+Github: [@duskwitness](github.com/duskwitness)
 
 ### Contact me (Please ^^)
 
