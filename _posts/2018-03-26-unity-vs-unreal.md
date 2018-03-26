@@ -2,7 +2,7 @@
 published: true
 ---
 ##### By the end of reading this post, if you follow all the instructions, you will have made the final decision.
-&nbsp;
+
 Just by the fact that you're here reading this, I know you have spent a lot of time into researching and pondering. It's time to stop.
 ### Switching between game engines is no big deal
 
@@ -16,7 +16,9 @@ If you picked Blender.... (It's the same story as before, replace JavaScript wit
 
 
 > It’s about learning programming, learning programming languages is easy.
+
 > It’s about learning 3d modeling, learning 3d modeling applications is easy.
+
 > **Learning an engine is easy. Learning how to make games is hard.**
 
 
