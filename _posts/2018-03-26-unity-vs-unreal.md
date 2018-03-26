@@ -6,7 +6,7 @@ By the end of reading this post, if you follow all the instructions, you will ha
 ---
 
 Just by the fact that you're here reading this, I know you have spent a lot of time into researching and pondering. It's time to stop.
-### Switching between game engines is no big deal
+## Switching between game engines is no big deal
 
 The real work, 99.99% of the work, is in actually going through the process of making games which will make you acquire the experience and knowledge of actually making games. That's what actually matters.
 
@@ -17,15 +17,13 @@ If you picked JavaScript, after putting time into learning and actually making s
 If you picked Blender.... (It's the same story as before, replace JavaScript with Blender and Python with Maya)
 
 
-> It’s about learning programming, learning programming languages is easy.
-
-> It’s about learning 3d modeling, learning 3d modeling applications is easy.
-
-> **Learning an engine is easy. Learning how to make games is hard.**
+> It’s about learning programming, learning programming languages is easy.  
+> It’s about learning 3d modeling, learning 3d modeling applications is easy.  
+> **Learning an engine is easy. Learning how to make games is hard.**  
 
 
 
-### Doesn't matter which one you choose
+## Doesn't matter which one you choose
 
 Just pick one and start making. And then put your head down and work, I don’t want you to invest a single moment of time into comparing game engines until at least putting out a couple of finished projects.
 
